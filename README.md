@@ -11,7 +11,6 @@ python main.py -h
 
 ```bash
  Variant_calling_bash_script.sh
- and
  
  batch_Script_for_scinet.sh
  ```
