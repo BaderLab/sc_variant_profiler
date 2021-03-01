@@ -3,7 +3,7 @@ A variant calling pipeline for single-cell RNAseq data
 
 to split your main BAM file to single cell BAM files use:
 ```bash
-python split_bam_to_cells -h
+python split_bam_to_cells.py
 ```
 
 to use the pipeline in python environment run:
