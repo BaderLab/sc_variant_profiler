@@ -1,7 +1,7 @@
 ## sc_variant_profiler
 A variant calling pipeline for single-cell RNAseq data
 
-to split you main BAM file to single cell bamfiles use:
+to split your main BAM file to single cell BAM files use:
 ```bash
 python split_bam_to_cells -h
 ```
